@@ -16,7 +16,7 @@
 
 # 使用方法
 
-请移步b站视频(暂未录制，可以参考早期版本：https://www.bilibili.com/video/BV1Ee4y1h7cX)。
+请移步b站视频(暂未录制，可以参考早期版本：https://www.bilibili.com/video/BV1Ee4y1h7cX )。
 
 # Change Log
 
@@ -42,4 +42,4 @@ QQ群：(还暂时没啥群)
 
 邮箱：1926447855@qq.com、929711787@qq.com
 
-**欢迎各位火箭爱好者与我们联系，请支持我们！**
+**欢迎各位火箭爱好者与我们联系，给我们一个star☆吧，请支持我们！**
